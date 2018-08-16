@@ -1,4 +1,4 @@
-The Tut:
+The Tut: Recursion and backtracking
 
 commit is like a save, change the file and make a commit. 
 Branching will come ahead
@@ -25,3 +25,5 @@ We can also have some other branch .
  
  
       
+Now that i have created a new branch known as backtracking, i am standing on the backtracking branch and i can directly commit on the backtracking branch. 
+GitHub also gives us the option to create a new branch for our fresh commit. Just in case if we want tol
