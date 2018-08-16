@@ -26,3 +26,22 @@ We can also have some other branch .
  
       
 Since i committed to the backtracking branch, the master branch recursion doesnt have those changes. 
+
+
+Now i liked the idea in backtacking i want to get it to the recursion file also. 
+
+          |
+          |
+        master
+        /     \
+       /        \
+      /           \
+ BackTracking      ForwardRecursion
+      \
+       \
+        \
+         master (recursion
+         
+         
+go to the graph options to visualize your activity in a tree like structure. 
+         
