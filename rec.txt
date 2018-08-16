@@ -49,3 +49,4 @@ go to the graph options to visualize your activity in a tree like structure.
 Something new is coming up as pull request and merge. 
 
          
+Pull request is when you want to bring in some changes of one branch to another. 
