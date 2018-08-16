@@ -50,3 +50,8 @@ Something new is coming up as pull request and merge.
 
          
 Pull request is when you want to bring in some changes of one branch to another. 
+
+Forking a repo: Taking an entire instance of some other repo and adding it to your own account. You maybe like a repo too much that you want an exact replica of it in your account.
+
+When you go on editing a project, it automatically gives you an option to fork that project and then edit the file.
+
