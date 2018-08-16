@@ -1,0 +1,4 @@
+The Tut:
+
+commit is like a save, change the file and make a commit. 
+Branching will come ahead
