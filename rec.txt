@@ -23,7 +23,33 @@ We can also have some other branch .
       /           \
  BackTracking      ForwardRecursion
  
- 
-      
+
 Now that i have created a new branch known as backtracking, i am standing on the backtracking branch and i can directly commit on the backtracking branch. 
 GitHub also gives us the option to create a new branch for our fresh commit. Just in case if we want tol
+ 
+
+
+Since i committed to the backtracking branch, the master branch recursion doesnt have those changes. 
+
+
+Now i liked the idea in backtacking i want to get it to the recursion file also. 
+
+          |
+          |
+        master
+        /     \
+       /        \
+      /           \
+ BackTracking      ForwardRecursion
+      \
+       \
+        \
+         master (recursion
+         
+         
+go to the graph options to visualize your activity in a tree like structure. 
+
+
+Something new is coming up as pull request and merge. 
+
+         
