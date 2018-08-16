@@ -7,3 +7,21 @@ Commit:-
 -Making a change, clck on commit changes with a small commit message
 
 -We also have a commit hash, Unique hash for every commit.
+
+
+Branching:- 
+-A repo known as Recursion.  
+
+We have a master branch, root of the tree. 
+We can also have some other branch .
+          
+          |
+          |
+        master
+        /     \
+       /        \
+      /           \
+ BackTracking      ForwardRecursion
+ 
+ 
+      
