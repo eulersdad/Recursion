@@ -2,4 +2,8 @@ The Tut:
 
 commit is like a save, change the file and make a commit. 
 Branching will come ahead
-Making a change, clck on commit changes with a small commit message
+
+Commit:-
+-Making a change, clck on commit changes with a small commit message
+
+-We also have a commit hash, Unique hash for every commit.
